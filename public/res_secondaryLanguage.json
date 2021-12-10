@@ -1,0 +1,145 @@
+{
+    "basic_info": {
+      "description_header": "G'day!",
+      "description": "I'm a Junior Front-End Developer who wish to always learn & try new things! Inspite the fact that I'm a graduate of Software Engineering, I recently gained a dream of becoming a developer! I wish to become a true developer some day :)",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "my_info": {
+      "myinfo_header": "Eungju Kim (Andy Kim)",
+      "name": "Eungju Kim (Andy Kim)",
+      "address": "Yongin-si, Gyeonggi-do, Republic of Korea",
+      "graduate": "Graduate of KwangWoon University, SoftWare",
+      "birth": "1995.03.20",
+      "e_mail": "dmdwn3979@naver.com"
+      
+    },
+    "projects": [
+      {
+        "title": "Review Analysis System for English Speaking Tourist",
+        "startDate": "2019~2020",
+        "description": "The goal is to provide insights for English-speaking travelers, guides in Korea, and tourism industry workers by training various capabilities from collection, preprocessing, machine learning, and visualization in the process in order to develop technically various methods and insights to learn and practice data analysis!",
+        "images": [
+          "images/portfolio/animal-shelter/travel_1.png",
+          "images/portfolio/animal-shelter/travel_2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          }
+        ]
+      },
+      {
+        "title": "Voice Recognition using Rasberry Pi",
+        "startDate": "2019~2020",
+        "description": "We implemented a voice recognition function for the elderly living alone, collected more than 6,000 voice data directly, preprocessed and learned. We trained 12 words to implement movements for each object like fan and air-conditioner!",
+        "images": [
+          "images/portfolio/photography/rasberry_pi.png",
+          "images/portfolio/photography/rasberry_pi_2.png"
+        ],
+        "url": "https://www.youtube.com/watch?v=_P-MYMv7gHE",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-rasberrypi-plain",
+            "name": "RasberryPi"
+          }
+        ]
+      },
+      {
+        "title": "HappyHouse",
+        "startDate": "2021",
+        "description": "The first project at Samsung Software Academy for Youth! As a penetrating project, we learned back-end and front-end starting from Java, Spring Boot, and Vuex. We implemented basic CRUD functions and additional functions.",
+        "images": [
+          "images/portfolio/adventure/happyhouse_1.PNG",
+          "images/portfolio/adventure/happyhouse_2.PNG",
+          "images/portfolio/adventure/happyhouse_3.PNG"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "KwangWoon University",
+        "title": "Software Engineering",
+        "years": "2015.02 - 2021.02",
+        "mainTech": [
+          "Python, Tensorflow"
+        ],
+        "technologies": [
+          "Python",
+          "Tensorflow",
+          "R",
+          "BigData",
+          "C++",
+          "Java"
+        ]
+      },
+      {
+        "company": "SamSung Software Academy for Youth",
+        "title": "SSAFY",
+        "years": "2021.07 - present",
+        "mainTech": [
+          "Vue",
+          "React",
+          "JavaScript"
+        ],
+        "technologies": [
+          "Vue",
+          "React",
+          "JavaScript",
+          "Spring",
+          "myBatis",
+          "RESTful API",
+          "Java"
+        ]
+      }
+    ]
+  }

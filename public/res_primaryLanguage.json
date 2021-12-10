@@ -1,0 +1,145 @@
+{
+    "basic_info": {
+      "description_header": "안녕하세요!",
+      "description": "항상 배움의 자세를 갖으려고 노력하는, 계속 발전하며 개발을 하고 싶은 김응주입니다! 비록 소프트웨어 전공자이지만 명확한 꿈과 개발에 대한 열정은 이제 막 달아오르기 시작했습니다!",
+      "section_name": {
+        "about": "당신은 누구인가요?",
+        "projects": "프로젝트",
+        "skills": "기술",
+        "experience": "경험"
+      }
+    },
+    "my_info": {
+      "myinfo_header": "김응주",
+      "name": "김응주",
+      "address": "경기도 용인시",
+      "graduate": "광운대 소프트웨어학부",
+      "birth": "1995.03.20",
+      "e_mail": "dmdwn3979@naver.com"
+      
+    },
+    "projects": [
+      {
+        "title": "영어권 여행 후기 분석 시스템",
+        "startDate": "2019~2020",
+        "description": "영어권 여행자들과, 한국의 가이드, 관광 산업 종사자를 위해 인사이트를 제공하며 그 과정에서 수집, 전처리, 머신러닝, 시각화까지 다양한 역량을 단련하고 기술적으로도 다양한 방법과 통찰을 개발하여 데이터 분석을 배우고, 실천하는 분들이 참고할 수 있는 좋은 선례를 만드는 것이 목표!",
+        "images": [
+          "images/portfolio/animal-shelter/travel_1.png",
+          "images/portfolio/animal-shelter/travel_2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          }
+        ]
+      },
+      {
+        "title": "라즈베리파이를 이용한 음성인식 기능 구현",
+        "startDate": "2019~2020",
+        "description": "독거노인을 위한 음성인식 기능 구현, 6천개가 넘는 음성 데이터를 직접 수집하여 전처리 및 학습하였습니다. 12개의 단어를 학습시켜 각 사물에 대한 동작을 구현하였습니다!",
+        "images": [
+          "images/portfolio/photography/rasberry_pi.png",
+          "images/portfolio/photography/rasberry_pi_2.png"
+        ],
+        "url": "https://www.youtube.com/watch?v=_P-MYMv7gHE",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-rasberrypi-plain",
+            "name": "RasberryPi"
+          }
+        ]
+      },
+      {
+        "title": "HappyHouse",
+        "startDate": "2021",
+        "description": "삼성청년소프트웨어아카데미에서의 첫 프로젝트! 관통 프로젝트로써 Java, Spring Boot, Vuex 까지 Back-End와 Front-End를 학습하며 진행하였습니다. 기본적인 CRUD의 기능 구현과 추가적인 기능 구현을 진행하였습니다.",
+        "images": [
+          "images/portfolio/adventure/happyhouse_1.PNG",
+          "images/portfolio/adventure/happyhouse_2.PNG",
+          "images/portfolio/adventure/happyhouse_3.PNG"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "광운대학교",
+        "title": "소프트웨어학부",
+        "years": "2015.02 - 2021.02",
+        "mainTech": [
+          "Python, Tensorflow"
+        ],
+        "technologies": [
+          "Python",
+          "Tensorflow",
+          "R",
+          "BigData",
+          "C++",
+          "Java"
+        ]
+      },
+      {
+        "company": "삼성청년소프트웨어아카데미",
+        "title": "SSAFY",
+        "years": "2021.07 - present",
+        "mainTech": [
+          "Vue",
+          "React",
+          "JavaScript"
+        ],
+        "technologies": [
+          "Vue",
+          "React",
+          "JavaScript",
+          "Spring",
+          "myBatis",
+          "RESTful API",
+          "Java"
+        ]
+      }
+    ]
+  }
